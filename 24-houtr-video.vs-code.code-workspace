@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "transcode-viedo"
-		},
-		{
 			"path": "set-permission"
 		},
 		{
 			"path": "extract-metadata"
+		},
+		{
+			"path": "transcode-video"
 		}
 	],
 	"settings": {}
