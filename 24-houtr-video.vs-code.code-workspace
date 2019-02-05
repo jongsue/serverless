@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "transcode-viedo"
+		},
+		{
+			"path": "set-permission"
+		},
+		{
+			"path": "extract-metadata"
+		}
+	],
+	"settings": {}
+}
