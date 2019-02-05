@@ -1,13 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "set-permission"
-		},
-		{
-			"path": "extract-metadata"
-		},
-		{
-			"path": "transcode-video"
+			"path": "."
 		}
 	],
 	"settings": {}
